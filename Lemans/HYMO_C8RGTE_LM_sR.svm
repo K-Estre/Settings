@@ -1,0 +1,208 @@
+VehicleClassSetting="GTE GTE_Corvette_C8.R WEC2023"
+UpgradeSetting=(1639,0,0,0)
+//VEH=E:\SteamLibrary\steamapps\common\LM100\Installed\Vehicles\Chevrolet_C8R_LM_2023\1.33\33_CORVETT9BB51D89.VEH
+//UpgradeClass=
+//Aero package=1
+//BOP=3
+//AI Tweaks=3
+//Estimates=3
+//Atmos Conditions=0
+//Note: settings commented out if using the default
+
+[GENERAL]
+Notes=""
+Symmetric=1
+//CGHeightSetting=0//Non-adjustable
+//CGRightSetting=0//Non-adjustable
+//CGRearSetting=0//Non-adjustable
+//WedgeSetting=0//N/A
+FuelSetting=91//92.0L (13.9 laps)
+//FuelCapacitySetting=0//N/A
+//NumPitstopsSetting=0//
+//Pitstop1Setting=50//N/A
+//Pitstop2Setting=50//N/A
+//Pitstop3Setting=50//N/A
+
+[LEFTFENDER]
+//FenderFlareSetting=0//N/A
+
+[RIGHTFENDER]
+//FenderFlareSetting=0//N/A
+
+[FRONTWING]
+//FWSetting=0//Le Mans
+
+[REARWING]
+//RWSetting=0//P1
+
+[BODYAERO]
+WaterRadiatorSetting=1//25%
+OilRadiatorSetting=2//50%
+//BrakeDuctSetting=1//33%
+BrakeDuctRearSetting=2//66%
+
+[SUSPENSION]
+//FrontWheelTrackSetting=0//Non-adjustable
+//RearWheelTrackSetting=0//Non-adjustable
+FrontAntiSwaySetting=7//P7
+//RearAntiSwaySetting=1//P1
+FrontToeInSetting=7//-0.12 deg
+//FrontToeOffsetSetting=0//N/A
+//RearToeInSetting=10//0.23 deg
+//RearToeOffsetSetting=0//N/A
+//LeftCasterSetting=0//Non-adjustable
+//RightCasterSetting=0//Non-adjustable
+//LeftTrackBarSetting=0//N/A
+//RightTrackBarSetting=0//N/A
+//Front3rdPackerSetting=0//N/A
+//Front3rdSpringSetting=0//Detached
+//Front3rdTenderSpringSetting=0//Detached
+//Front3rdTenderTravelSetting=0//Detached
+//Front3rdSlowBumpSetting=0//N/A
+//Front3rdFastBumpSetting=0//N/A
+//Front3rdSlowReboundSetting=0//N/A
+//Front3rdFastReboundSetting=0//N/A
+//Rear3rdPackerSetting=0//N/A
+//Rear3rdSpringSetting=0//Detached
+//Rear3rdTenderSpringSetting=0//Detached
+//Rear3rdTenderTravelSetting=0//Detached
+//Rear3rdSlowBumpSetting=0//N/A
+//Rear3rdFastBumpSetting=0//N/A
+//Rear3rdSlowReboundSetting=0//N/A
+//Rear3rdFastReboundSetting=0//N/A
+//ChassisAdj00Setting=0//N/A
+//ChassisAdj01Setting=0//N/A
+//ChassisAdj02Setting=0//N/A
+//ChassisAdj03Setting=0//N/A
+//ChassisAdj04Setting=0//N/A
+//ChassisAdj05Setting=0//N/A
+//ChassisAdj06Setting=0//N/A
+//ChassisAdj07Setting=0//N/A
+//ChassisAdj08Setting=0//N/A
+//ChassisAdj09Setting=0//N/A
+//ChassisAdj10Setting=0//N/A
+//ChassisAdj11Setting=0//N/A
+
+[CONTROLS]
+//SteerLockSetting=6//540 (18) deg
+RearBrakeSetting=24//51.0:49.0
+//BrakeMigrationSetting=0// 0.0
+BrakePressureSetting=32//72 kgf  (90%)
+//HandfrontbrakePressSetting=0//N/A
+//HandbrakePressSetting=0//N/A
+//TCSetting=0//Available
+//ABSSetting=0//N/A
+TractionControlMapSetting=7//7
+//TCPowerCutMapSetting=4//4
+TCSlipAngleMapSetting=8//8
+//AntilockBrakeSystemMapSetting=0//N/A
+
+[ENGINE]
+//RevLimitSetting=0//7,400
+//EngineBoostSetting=0//N/A
+//RegenerationMapSetting=0//0%
+//ElectricMotorMapSetting=0//
+//EngineMixtureSetting=1//Race
+//EngineBrakingMapSetting=0//N/A
+
+[DRIVELINE]
+//FinalDriveSetting=1//2.989
+//ReverseSetting=0//3.083
+Gear1Setting=1//2.286
+Gear2Setting=1//1.875
+Gear3Setting=1//1.588
+Gear4Setting=1//1.333
+Gear5Setting=1//1.143
+Gear6Setting=1//1.000
+//RatioSetSetting=0//Le Mans
+//DiffPumpSetting=0//N/A
+//DiffPowerSetting=0//Non-adjustable
+//DiffCoastSetting=0//Non-adjustable
+DiffPreloadSetting=30//150 Nm
+//FrontDiffPumpSetting=0//0%
+//FrontDiffPowerSetting=0//0%
+//FrontDiffCoastSetting=0//0%
+//FrontDiffPreloadSetting=0//1
+//RearSplitSetting=0//RWD
+//GearAutoUpShiftSetting=0//Off
+//GearAutoDownShiftSetting=0//Off
+
+[FRONTLEFT]
+CamberSetting=30//-2.0 deg
+//PressureSetting=0//140 kPa
+PackerSetting=23//2.3 cm
+SpringSetting=1//140 N/mm
+//TenderSpringSetting=0//Detached
+//TenderTravelSetting=0//Detached
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=0//5.0 cm
+SlowBumpSetting=4//4
+FastBumpSetting=4//4
+SlowReboundSetting=6//6
+FastReboundSetting=8//8
+//BrakeDiscSetting=0//3.56 cm
+//BrakePadSetting=0//1
+//CompoundSetting=0//Soft
+//EquippedTireIDSetting=0//#1 94%
+
+[FRONTRIGHT]
+CamberSetting=30//-2.0 deg
+//PressureSetting=0//140 kPa
+PackerSetting=23//2.3 cm
+SpringSetting=1//140 N/mm
+//TenderSpringSetting=0//Detached
+//TenderTravelSetting=0//Detached
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=0//5.0 cm
+SlowBumpSetting=4//4
+FastBumpSetting=4//4
+SlowReboundSetting=6//6
+FastReboundSetting=8//8
+//BrakeDiscSetting=0//3.56 cm
+//BrakePadSetting=0//1
+//CompoundSetting=0//Soft
+//EquippedTireIDSetting=0//#1 96%
+
+[REARLEFT]
+CamberSetting=35//-1.0 deg
+//PressureSetting=0//140 kPa
+PackerSetting=8//0.8 cm
+SpringSetting=1//140 N/mm
+//TenderSpringSetting=0//Detached
+//TenderTravelSetting=0//Detached
+//SpringRubberSetting=0//Detached
+RideHeightSetting=5//5.5 cm
+//SlowBumpSetting=4//4
+//FastBumpSetting=4//4
+SlowReboundSetting=6//6
+FastReboundSetting=8//8
+//BrakeDiscSetting=0//3.20 cm
+//BrakePadSetting=0//1
+//CompoundSetting=0//Soft
+//EquippedTireIDSetting=0//#1 94%
+
+[REARRIGHT]
+CamberSetting=35//-1.0 deg
+//PressureSetting=0//140 kPa
+PackerSetting=8//0.8 cm
+SpringSetting=1//140 N/mm
+//TenderSpringSetting=0//Detached
+//TenderTravelSetting=0//Detached
+//SpringRubberSetting=0//Detached
+RideHeightSetting=5//5.5 cm
+//SlowBumpSetting=4//4
+//FastBumpSetting=4//4
+SlowReboundSetting=6//6
+FastReboundSetting=8//8
+//BrakeDiscSetting=0//3.20 cm
+//BrakePadSetting=0//1
+//CompoundSetting=0//Soft
+//EquippedTireIDSetting=0//#1 96%
+
+[BASIC]
+Downforce=0.500000
+Balance=0.500000
+Ride=0.500000
+Gearing=0.500000
+Custom=1
+
