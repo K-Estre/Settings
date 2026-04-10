@@ -1,0 +1,11 @@
+# Ignore everything by default.
+*
+
+# Keep Git able to traverse folders.
+!*/
+
+# Track setup files.
+!.gitignore
+
+# Only keep car setup files.
+!*.svm
